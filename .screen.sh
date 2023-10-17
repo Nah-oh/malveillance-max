@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-setxkbmap ru
+xrandr -o normal
